@@ -68,28 +68,12 @@
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
+  {    "name_mp3": "Angin Malam",    "link_mp3": "https://archive.org/download/betrand_peto_ft_anji_dia_mop_music_xgNlOzvGRjY/angin_malam_cover_by_betrand_peto_pYA9le0sFKg.mp3"  },
+  {    "name_mp3": "Cinta Luar Biasa - Featuring with Andmesh",    "link_mp3": "https://archive.org/download/betrand_peto_ft_anji_dia_mop_music_xgNlOzvGRjY/betrand_peto_andmesh_cinta_luar_biasa_2-nmn0XWztE.mp3"  },
+  {    "name_mp3": "Damai Bersamamu",    "link_mp3": "https://archive.org/download/betrand_peto_ft_anji_dia_mop_music_xgNlOzvGRjY/betrand_peto_damai_bersama_mu_official_lyrics_video_433Ficnm9_w.mp3"  },
+  {    "name_mp3": "Jikalau Kau Cinta - Featuring Judika",    "link_mp3": "https://archive.org/download/betrand_peto_ft_anji_dia_mop_music_xgNlOzvGRjY/betrand_peto_ft_judika_jikalau_kau_cinta_lirik_s86LfJijKH8.mp3"  },
+  {    "name_mp3": "Mencari Alasan - Featuring Callista",    "link_mp3": "https://archive.org/download/betrand_peto_ft_anji_dia_mop_music_xgNlOzvGRjY/betrand_peto_ft_maria_callista_mencari_alasan_mop_music_hzODWNuTRXk.mp3"  }
 
-
-],
-"Wallpaper": [
-
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp3761429.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp6235495.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp5975713.jpg"  },
- {    "image": "https://w.wallhaven.cc/full/73/wallhaven-737jwy.jpg"  },
- {    "image": "file:///android_asset/wallpaper (1).jpg"  },
- {    "image": "file:///android_asset/wallpaper (2).jpg"  },
- {    "image": "file:///android_asset/wallpaper (3).jpg"  },
- {    "image": "file:///android_asset/wallpaper (4).jpg"  },
- {    "image": "file:///android_asset/wallpaper (5).jpg"  },
- {    "image": "file:///android_asset/wallpaper (6).jpg"  },
- {    "image": "file:///android_asset/wallpaper (7).jpg"  }
 
 ]
 }
